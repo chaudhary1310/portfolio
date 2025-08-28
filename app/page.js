@@ -11,7 +11,7 @@ export default function Page() {
       <h2 className="relative z-10 text-4xl lg:text-7xl font-bold text-white">
         Full Stack Developer{" "}
         <span className="block bg-clip-text text-transparent bg-gradient-to-r from-purple-500 via-violet-500 to-pink-500">
-          Sumit Here
+         Sumit Here
         </span>
       </h2>
     </div>

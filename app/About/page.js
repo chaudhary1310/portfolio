@@ -14,7 +14,7 @@ export default function DirectionAwareHoverDemo() {
       {/* Paragraphs (centered container, but left-aligned text) */}
       <div className="relative  max-w-4xl text-left">
         <p className="text-2xl  md:text-5xl font-bold text-white ">
-          <ColourfulText text="I'm Sumit Yadav"  /> </p>
+          <ColourfulText text="I'm Sumit Yadav "  /> </p>
          <p className="text-2xl md:text-5xl p-10 font-bold text-white font-sans">
           <ColourfulText text=" Full Stack Developer"  />
          </p>
