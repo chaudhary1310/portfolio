@@ -10,7 +10,7 @@ export default function ResumePage() {
       {/* Embedded PDF */}
       <div className="w-full max-w-4xl relative h-[600px] mb-6">
         <iframe
-          src="/Resume.pdf"
+          src="/sumit kumar yadav.pdf"
           className="w-full h-full border border-gray-700 rounded-lg"
           title="Resume"
         />
