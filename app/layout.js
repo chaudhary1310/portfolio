@@ -51,7 +51,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className="relative min-h-screen">
         {/* Fixed Tab Bar (top center) */}
-        <div className="fixed top-4  left-1/2 -translate-x-1/2 z-50">
+        <div className="fixed bottom-4  left-1/2 -translate-x-1/2 z-50">
           <FloatingDock
             mobileClassName="translate-y-0" // reset from demo
             items={links}

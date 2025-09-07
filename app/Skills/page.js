@@ -49,6 +49,12 @@ export default function DraggableCardDemo() {
         "./react.svg",
       className: "absolute top-8 left-[30%] rotate-[4deg]",
     },
+    {
+      title: "Tailwind CSS",
+      image:
+        "./tailwind.svg",
+      className: "absolute top-8 left-[30%] rotate-[4deg]",
+    },
   ];
   return ( 
     <div className="relative h-full flex items-center justify-center text-center gap-8">
